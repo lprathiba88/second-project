@@ -1,4 +1,4 @@
-### second-project
+### Second Project
 
 ### March 28, 2016
 
